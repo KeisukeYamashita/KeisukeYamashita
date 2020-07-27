@@ -1,8 +1,7 @@
 ## Contacts
 
-[![github](https://img.shields.io/github/followers/KeisukeYamashita?label=Follow%20%40KeisukeYamashita&style=social)](https://github.com/KeisukeYamashita)
-[![twitter](https://img.shields.io/twitter/follow/_k_e_k_e?style=social)](https://twitter.com/_k_e_k_e)
-[![HitCount](http://hits.dwyl.com/KeisukeYamashita/KeisukeYamashita.svg)](http://hits.dwyl.com/KeisukeYamashita/KeisukeYamashita)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/KeisukeYamashita)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_k_e_k_e)](https://twitter.com/yokinist)
 
 ## Stats
 
