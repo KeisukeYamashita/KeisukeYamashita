@@ -9,7 +9,10 @@
 
 ## Stats
 
-![KeisukeYamashita's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeisukeYamashita)
+<a href="https://github.com/micnncim">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeisukeYamashita&show_icons=true" />
+</a>
 <a href="https://github.com/micnncim">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeisukeYamashita" />
 </a>
+
