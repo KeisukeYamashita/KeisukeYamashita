@@ -5,7 +5,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://twitter.com/_k_e_k_e)](https://www.instagram.com/1995yamashita/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://twitter.com/_k_e_k_e)](https://www.linkedin.com/in/keisukeyamashita-816906136/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://twitter.com/_k_e_k_e)](https://www.facebook.com/yamashita.keisuke.524/)
+[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat-square&logo=speaker-deck&color=009287&logoColor=white)](https://speakerdeck.com/keisukeyamashita)
 
 ## Stats
 
 ![KeisukeYamashita's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeisukeYamashita)
+<a href="https://github.com/micnncim">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeisukeYamashita" />
+</a>
