@@ -13,6 +13,7 @@
 
 ## Skills
 
+[![](https://img.shields.io/badge/-Visual%20Studio%20Code-5C2D91?style=flat-square&logoColor=white&logo=visual-studio)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logoColor=white&logo=go)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logoColor=white&logo=typescript)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Bash-4eaa25?style=flat-square&logoColor=white&logo=gnu-bash)](https://github.com/KeisukeYamashita)
