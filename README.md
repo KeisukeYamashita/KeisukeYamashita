@@ -33,3 +33,7 @@
 [![](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logoColor=white&logo=terraform)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logoColor=white&logo=github-actions)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logoColor=white&logo=circleci)](https://github.com/KeisukeYamashita)
+
+## Stats
+
+[![KeisukeYamashita's github stats](https://github-readme-stats.vercel.app/api?username=KeisukeYamashita&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
