@@ -1,3 +1,5 @@
+Hi, I'm Keisuke Yamashita. Site Reliability Engineer base in Tokyo 🗼
+
 ## Contacts
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/KeisukeYamashita)
