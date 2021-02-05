@@ -1,4 +1,4 @@
-Hi, I'm Keisuke Yamashita. Site Reliability Engineer base in Tokyo 🗼
+Hi, I'm Keisuke Yamashita 👋  Site Reliability Engineer base in Tokyo 🗼
 
 ## Contacts
 
