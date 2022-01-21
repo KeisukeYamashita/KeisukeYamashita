@@ -40,6 +40,3 @@ Hi, I'm Keisuke Yamashita 👋  Site Reliability Engineer base in Tokyo 🗼
 [![](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logoColor=white&logo=netlify)](https://github.com/KeisukeYamashita)
 
 
-## Stats
-
-[![KeisukeYamashita's github stats](https://github-readme-stats.vercel.app/api?username=KeisukeYamashita&show_icons=true&theme=radical)](https://github.com/KeisukeYamashita)
