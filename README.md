@@ -15,7 +15,7 @@ Hi, I'm Keisuke Yamashita 👋  Site Reliability Engineer base in Tokyo 🗼
 
 ## 🪄 Skills
 
-List here the programming languages, databases, tools, etc. in which you have experience!
+List here the programming languages, databases, tools, etc. in which I have experience!
 
 Note that these are not all and I'm always learning new things 😁
 
@@ -37,6 +37,7 @@ Note that these are not all and I'm always learning new things 😁
 
 [![](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logoColor=white&logo=apollographql)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Chakura%20UI-319795?style=flat&logoColor=white&logo=chakraui)](https://github.com/KeisukeYamashita)
+[![](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat&logoColor=white&logo=daisyui)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Flutter-02569B?style=flat&logoColor=white&logo=amazon-aws)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Next.js-000000?style=flat&logoColor=white&logo=nextdotjs)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-React-61DAFB?style=flat&logoColor=white&logo=react)](https://github.com/KeisukeYamashita)
@@ -72,6 +73,7 @@ Note that these are not all and I'm always learning new things 😁
 
 ### Toolings
 
+[![](https://img.shields.io/badge/-Alfred-5C1F87?style=flat&logoColor=white&logo=alfred)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logoColor=white&logo=android)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logoColor=white&logo=asana)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Atlassian-0052CC?style=flat&logoColor=white&logo=atlassian)](https://github.com/KeisukeYamashita)
