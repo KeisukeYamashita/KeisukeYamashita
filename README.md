@@ -22,8 +22,8 @@ Note that these are not all and I'm always learning new things 😁
 ### Programming Languages
 
 [![](https://img.shields.io/badge/-Bash-4eaa25?style=flat&logoColor=white&logo=gnu-bash)](https://github.com/KeisukeYamashita)
-[![](https://img.shields.io/badge/-Dart-0175C2?style=flat&logoColor=white&logo=deno)](https://github.com/KeisukeYamashita)
-[![](https://img.shields.io/badge/-Deno-000000?style=flat&logoColor=white&logo=dart)](https://github.com/KeisukeYamashita)
+[![](https://img.shields.io/badge/-Dart-0175C2?style=flat&logoColor=white&logo=dart)](https://github.com/KeisukeYamashita)
+[![](https://img.shields.io/badge/-Deno-000000?style=flat&logoColor=white&logo=deno)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logoColor=white&logo=kotlin)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat&logoColor=white&logo=go)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logoColor=white&logo=javascript)](https://github.com/KeisukeYamashita)
