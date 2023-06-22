@@ -26,11 +26,11 @@ Note that these are not all and I'm always learning new things 😁
 [![](https://img.shields.io/badge/-Deno-000000?style=flat&logoColor=white&logo=deno)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logoColor=white&logo=kotlin)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat&logoColor=white&logo=go)](https://github.com/KeisukeYamashita)
-[![](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logoColor=white&logo=javascript)](https://github.com/KeisukeYamashita)
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logoColor=white&logo=javascript)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat&logoColor=white&logo=python)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Rust-000000?style=flat&logoColor=white&logo=rust)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Swift-F05138?style=flat&logoColor=white&logo=swift)](https://github.com/KeisukeYamashita)
-[![](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logoColor=white&logo=typescript)](https://github.com/KeisukeYamashita)
+[![](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=white&logo=typescript)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-YAML-CB171E?style=flat&logoColor=white&logo=yaml)](https://github.com/KeisukeYamashita)
 
 ### Frameworks
