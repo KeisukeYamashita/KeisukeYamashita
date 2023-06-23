@@ -17,7 +17,8 @@ Hi, I'm Keisuke Yamashita 👋  Site Reliability Engineer base in Tokyo 🗼
 
 List here the programming languages, databases, tools, etc. in which I have experience!
 
-Note that these are not all and I'm always learning new things 😁
+> **Note**
+> These are not all and I'm always learning new things 😁
 
 ### Programming Languages
 
