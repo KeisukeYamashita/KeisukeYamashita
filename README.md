@@ -1,4 +1,4 @@
-Hi, I'm Keisuke Yamashita 👋  Site Reliability Engineer base in Tokyo 🗼
+Hi, I'm Keisuke Yamashita 👋  Site Reliability Engineer based in Vienna, Austria 🏰
 
 ## 📮 Contacts
 
@@ -11,7 +11,7 @@ Hi, I'm Keisuke Yamashita 👋  Site Reliability Engineer base in Tokyo 🗼
 
 ## 🎓 Education
 
-- [The University of Tokyo](https://www.u-tokyo.ac.jp/) Bachelor degree
+- [The University of Tokyo](https://www.u-tokyo.ac.jp/) Bachelor's degree
 
 ## 🪄 Skills
 
