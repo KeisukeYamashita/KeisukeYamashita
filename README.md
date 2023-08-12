@@ -1,4 +1,4 @@
-Hi, I'm Keisuke Yamashita 👋  Site Reliability Engineer based in Vienna, Austria 🏰
+Hi, I'm Keisuke Yamashita 👋  Site Reliability Engineer based in Vienna, Austria 🏰 🇦🇹 🇪🇺
 
 ## 📮 Contacts
 
