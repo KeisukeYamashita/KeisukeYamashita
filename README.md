@@ -53,6 +53,7 @@ List here the programming languages, databases, tools, etc. in which I have expe
 [![](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logoColor=white&logo=cloudflare)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-CircleCI-343434?style=flat&logoColor=white&logo=circleci)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logoColor=white&logo=datadog)](https://github.com/KeisukeYamashita)
+[![](https://img.shields.io/badge/-Fastly-FF282D?style=flat&logoColor=white&logo=fastly)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logoColor=white&logo=firebase)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-GCP-4285F4?style=flat&logoColor=white&logo=google-cloud)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logoColor=white&logo=netlify)](https://github.com/KeisukeYamashita)
