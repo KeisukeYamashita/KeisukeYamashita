@@ -116,6 +116,7 @@ List here the programming languages, databases, tools, etc. in which I have expe
 [![](https://img.shields.io/badge/-1Password-0094F5?style=flat&logoColor=white&logo=1password)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Alfred-5C1F87?style=flat&logoColor=white&logo=alfred)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logoColor=white&logo=android)](https://github.com/KeisukeYamashita)
+[![](https://img.shields.io/badge/-Raycast-FF6363?style=flat&logoColor=white&logo=raycast)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-RenovateBot-1A1F6C?style=flat&logoColor=white&logo=renovatebot)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Visual%20Studio%20Code-5C2D91?style=flat&logoColor=white&logo=visual-studio)](https://github.com/KeisukeYamashita)
 
