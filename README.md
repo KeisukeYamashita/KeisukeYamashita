@@ -55,6 +55,7 @@ List here the programming languages, databases, tools, etc. in which I have expe
 [![](https://img.shields.io/badge/-Swift-F05138?style=flat&logoColor=white&logo=swift)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=white&logo=typescript)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-YAML-CB171E?style=flat&logoColor=white&logo=yaml)](https://github.com/KeisukeYamashita)
+[![](https://img.shields.io/badge/-Zsh-F15A24?style=flat&logoColor=white&logo=zsh)](https://github.com/KeisukeYamashita)
 
 ### Frameworks
 
