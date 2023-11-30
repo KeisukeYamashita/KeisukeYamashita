@@ -84,6 +84,7 @@ List here the programming languages, databases, tools, etc. in which I have expe
 [![](https://img.shields.io/badge/-Fastly-FF282D?style=flat&logoColor=white&logo=fastly)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logoColor=white&logo=firebase)](https://github.com/KeisukeYamashita)
 [![](https://img.shields.io/badge/-GCP-4285F4?style=flat&logoColor=white&logo=google-cloud)](https://github.com/KeisukeYamashita)
+[![](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logoColor=white&logo=supabase)](https://github.com/KeisukeYamashita)
 
 [![](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logoColor=white&logo=netlify)](https://github.com/KeisukeYamashita)
 
