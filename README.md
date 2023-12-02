@@ -15,6 +15,21 @@ Hi, I'm Keisuke Yamashita 👋  Site Reliability Engineer based in Vienna, Austr
 
 * [The University of Tokyo](https://www.u-tokyo.ac.jp/) Bachelor's degree
 
+## 🗣️ Languages
+
+I'm really into learning German now :D
+
+* 🇯🇵 Japanese (Native)
+* 🇬🇧 English (Fluent)
+* 🇩🇪 German (Basic)
+
+## 📚 Publications
+
+Published books and articles from one of the most famous publisher in Japan.
+
+* [エキスパートたちのGo言語, Software Design Plus](https://gihyo.jp/book/2022/978-4-297-12519-6): "Expert's Go" (Japanese)"
+* [Software Design, Software Design 2020/11](https://gihyo.jp/magazine/SD/archive/2020/202011): "Terraform Custom Provider with Go (Japanese)"
+
 ## 🎁 Hobby Projects
 
 I love engineering and here are some services that I develop in my free time :D
