@@ -20,7 +20,7 @@ Hi, I'm Keisuke Yamashita 👋  Site Reliability Engineer based in Vienna, Austr
 I'm really into learning German now :D
 
 * 🇯🇵 Japanese (Native)
-* 🇬🇧 English (Fluent)
+* 🇬🇧 English (Professional)
 * 🇩🇪 German (Basic)
 
 ## 📚 Publications
